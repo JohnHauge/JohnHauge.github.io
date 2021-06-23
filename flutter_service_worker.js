@@ -3,23 +3,24 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "64ac86fd1cedefddbdebb25100cab078",
+  "assets/AssetManifest.json": "8e0f260f8fa3b11688fe15c95c9bf165",
+"assets/assets/huldra_game_design": "5eedf4365d449285e6e352e0dab7afd0",
 "assets/FontManifest.json": "e073b0898ab00c70ebbb9ec09633176c",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/lib/fonts/LandasansMedium.otf": "64a255b0f9ac36d7385fe4ecca35478e",
 "assets/lib/fonts/LandasansUltraLight.otf": "8e78c6de7ece81089c2d775260245ceb",
 "assets/lib/fonts/Merienda-Bold.ttf": "da9b8edfe41956207e7e7397dcddc84d",
 "assets/lib/fonts/Merienda-Regular.ttf": "4e8625344c008fc0419d4fcd71540089",
-"assets/NOTICES": "d096c0cb4379de25a766070041db8ae1",
+"assets/NOTICES": "5b81b77be6dcee2389d218aff493ce7f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "86dec4d1bfe9a3288efb875b9c35ce7b",
-"/": "86dec4d1bfe9a3288efb875b9c35ce7b",
-"main.dart.js": "8416145d15ab69dd5e56d90e8082e5bc",
+"index.html": "45fc40d781ff4daf66d12a2bcac90c3e",
+"/": "45fc40d781ff4daf66d12a2bcac90c3e",
+"main.dart.js": "78365b509162fd232968675741a8d9fa",
 "manifest.json": "180b27026949d8b8311998c6590a4604",
 "version.json": "0cc89aeb0ea55669a2f8a9a7898b6539"
 };
