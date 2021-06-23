@@ -1,5 +1,8 @@
 The Hulder from Norwegian folklore was believed to be bound to or part of the forest. This belief inspired the idea of making the player and the forest connected. If the player died, so would the forest vice versa.
+
 Enemies enter the forest from eight different locations around the map on a random spawner basis. Still, only a set number of enemy groups will be allowed to be active from one spawner location at a time. This limit serves as a balancing mechanic that enables us to control the number of active enemies.
 The player's motivation and goal is to keep the forest alive for as long as possible, but doing so will become more challenging as the game progresses. 
-The forest as a whole has three health points which also serve as game states. Once the forest loses one of its health points, the game space will shrink down, much like in a battle royal game. If the player walks out of the game space, they will start taking damage over time. 
+
+The forest as a whole has three health points which also serve as game states. Once the forest loses one of its health points, the game space will shrink down, much like in a battle royal game. If the player walks out of the game space, they will start taking damage over time.
+ 
 Resource management is a big part of the design. A healthy forest will produce a magical resource. The player can collect this resource and use it to heal damaged parts of the woods or use it to become more powerful. We also allow the player to harvest this resource to a point where it will harm the trees.
