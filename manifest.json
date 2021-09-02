@@ -10,7 +10,7 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ffantendo%2Fimages%2F8%2F89%2FPS4_Controller.png%2Frevision%2Flatest%3Fcb%3D20180809043528&f=1&nofb=1",
+            "src": "icons/Icon-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
