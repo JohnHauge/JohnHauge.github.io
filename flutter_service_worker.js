@@ -605,10 +605,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "922c32a2c5f4e8369b6ea1563300ba86",
-"/": "922c32a2c5f4e8369b6ea1563300ba86",
+"index.html": "c233587bec6d5f95be6e33027fc2c49b",
+"/": "c233587bec6d5f95be6e33027fc2c49b",
 "main.dart.js": "8eed3f0a3893ad7191e68fde05cbd1ed",
-"manifest.json": "180b27026949d8b8311998c6590a4604",
+"manifest.json": "85c5d25edf4a68767b91baf62b099670",
 "version.json": "97240ee8860a14cf6b6ded0a82c89263"
 };
 
